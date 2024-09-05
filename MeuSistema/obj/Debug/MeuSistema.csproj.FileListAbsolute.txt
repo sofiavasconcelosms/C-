@@ -1,0 +1,10 @@
+C:\Users\sofia\source\repos\MeuSistema\bin\Debug\MeuSistema.exe.config
+C:\Users\sofia\source\repos\MeuSistema\bin\Debug\MeuSistema.exe
+C:\Users\sofia\source\repos\MeuSistema\bin\Debug\MeuSistema.pdb
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.Properties.Resources.resources
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.csproj.GenerateResource.cache
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.exe
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.pdb
+C:\Users\sofia\source\repos\MeuSistema\obj\Debug\MeuSistema.FrmMeuSistema.resources
