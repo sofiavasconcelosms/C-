@@ -1,0 +1,10 @@
+C:\Users\sofia\source\repos\LoopFor\bin\Debug\LoopFor.exe.config
+C:\Users\sofia\source\repos\LoopFor\bin\Debug\LoopFor.exe
+C:\Users\sofia\source\repos\LoopFor\bin\Debug\LoopFor.pdb
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.Form1.resources
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.Properties.Resources.resources
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.csproj.GenerateResource.cache
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.exe
+C:\Users\sofia\source\repos\LoopFor\obj\Debug\LoopFor.pdb
