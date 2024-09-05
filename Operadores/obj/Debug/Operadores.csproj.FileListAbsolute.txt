@@ -1,0 +1,10 @@
+C:\Users\sofia\source\repos\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\sofia\source\repos\Operadores\bin\Debug\Operadores.exe
+C:\Users\sofia\source\repos\Operadores\bin\Debug\Operadores.pdb
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.Form1.resources
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.Properties.Resources.resources
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.csproj.GenerateResource.cache
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.exe
+C:\Users\sofia\source\repos\Operadores\obj\Debug\Operadores.pdb
