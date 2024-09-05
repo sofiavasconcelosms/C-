@@ -1,0 +1,10 @@
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\bin\Debug\SwitchCaseEOperadorTernario.exe.config
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\bin\Debug\SwitchCaseEOperadorTernario.exe
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\bin\Debug\SwitchCaseEOperadorTernario.pdb
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.Form1.resources
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.Properties.Resources.resources
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.csproj.GenerateResource.cache
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.exe
+C:\Users\sofia\source\repos\SwitchCaseEOperadorTernario\obj\Debug\SwitchCaseEOperadorTernario.pdb
