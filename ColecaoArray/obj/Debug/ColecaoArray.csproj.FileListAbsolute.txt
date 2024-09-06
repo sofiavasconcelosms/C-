@@ -1,0 +1,10 @@
+C:\Users\sofia\source\repos\ColecaoArray\bin\Debug\ColecaoArray.exe.config
+C:\Users\sofia\source\repos\ColecaoArray\bin\Debug\ColecaoArray.exe
+C:\Users\sofia\source\repos\ColecaoArray\bin\Debug\ColecaoArray.pdb
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.Form1.resources
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.Properties.Resources.resources
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.csproj.GenerateResource.cache
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.exe
+C:\Users\sofia\source\repos\ColecaoArray\obj\Debug\ColecaoArray.pdb
